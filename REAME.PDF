@@ -1,15 +1,12 @@
-%PDF-1.7
-%����
-1 0 obj
-<</Type/Catalog/Pages 2 0 R/Lang(pt-PT) /StructTreeRoot 10 0 R/MarkInfo<</Marked true>>/Metadata 146 0 R/ViewerPreferences 147 0 R>>
-endobj
-2 0 obj
-<</Type/Pages/Count 1/Kids[ 3 0 R] >>
-endobj
-3 0 obj
-<</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R>>/ExtGState<</GS7 7 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.2 841.92] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>>
-endobj
-4 0 obj
-<</Filter/FlateDecode/Length 2189>>
-stream
-x����nG���s�	�v�K`�%Gp
+# TCM22-SIBD-G02
+# Trabalho Prático SIBD
+Repositório para acolhimento do projeto desenvolvido para a cadeira de Sistemas de Informção e Bases de Dados, disciplina do 2ºSemestre do 2º Ano do Curso de Tecnologias e Comunicação Multimédia da Universidade da Maia. 
+Desenvolvido pelo Grupo SIBD02 : 
+* Pedro Alves - a041598
+* Rafael Correia - a040170
+* Guilherme Cruz - a040829
+* Nuno Ventura - a040289
+
+## Descrição 
+Este repositório irá alojar um projeto universitário no âmbito da cadeira de Sistemas de Informação e Bases de Dados. 
+Para a realização deste trabalho, foi nos proposto analisar um problema de informatização de um Sistema de Informação com objetivo de ser colocado em prática a matéria lecionada ao longo do semestre.
