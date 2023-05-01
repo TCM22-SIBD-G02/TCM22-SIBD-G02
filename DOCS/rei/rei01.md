@@ -27,7 +27,7 @@ Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pe
 
 
 ## Entidade Filme:
-1.	ID
+1.	ID (identificador único)
 2.	Título
 3.	Ano
 4.	Género
@@ -40,7 +40,7 @@ Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pe
 
 ## Entidade Série:
 
-1.	ID
+1.	ID (identificador único)
 2.	Título
 3.	Género
 4.	Sinopse
@@ -53,7 +53,7 @@ Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pe
 
 ## Entidade Documentário:
 
-1.	ID
+1.	ID (identificador único)
 2.	Título
 3.	Género
 4.	Sinopse
