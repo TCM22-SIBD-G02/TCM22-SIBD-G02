@@ -4,7 +4,7 @@
 _(Introduzir as entidade-tipo e associações do sistema, adicionalmente apresentar o diagrama do modelo Entidade-Associação.)_
 
 Diagrama EA  
-![Diagrama de Informação](images/image%201.png) 
+![Diagrama de Informação](images/image1.png) 
 
 
 NOTA: Cada entidade-tipo e cada associação devem ter um pequeno texto – um ou dois parágrafos – para descrever esse elemento do modelo e os seus atributos)
