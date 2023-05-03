@@ -12,3 +12,7 @@ Por fim, para que o Utilizador se possa registar na nossa plataforma é necessá
  * login_nome
  * id_usuario
  * email 
+
+ ---
+[< Previous](rei01.md) | [^ Main](https://github.com/TCM22-SIBD-G03/TCM22-SIBD-G03) | [Next >](rei03.md)
+:--- | :---: | ---: 

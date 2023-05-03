@@ -38,5 +38,9 @@
 
 * Os comentários e avaliações não podem ser de carácter anónimo
 
+ ---
+[< Previous](rei02.md) | [^ Main](https://github.com/TCM22-SIBD-G03/TCM22-SIBD-G03) | [Next >](rei03.md)
+:--- | :---: | ---: 
+
 
 

@@ -15,3 +15,8 @@ Elementos do grupo
 * Nuno Ventura - a040289 [@NunoVentura03](https://github.com/NunoVentura03)
 * Guilherme Cruz - a040829 [@GuilhermeSaraivaCruz](https://github.com/GuilhermeSaraivaCruz)
 
+---
+
+< Previous | [^ Main](https://github.com/TCM22-SIBD-G02/TCM22-SIBD-G02) | [Next >](rei01.md)
+:--- | :---: | ---: 
+
