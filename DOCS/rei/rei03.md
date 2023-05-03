@@ -15,8 +15,8 @@
 * Tem 
 
 Diagrama EA  
-![Modelo EA](images/image1.png) 
 
+![Modelo EA](images/image1.png) 
 
 
 
