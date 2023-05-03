@@ -3,6 +3,7 @@
 ## Modelo E/A
 
 ## Entidades
+
 * Filme - A cada filme será atribuído um id para identificar na nossa base de dados, além disso terá também o seu título original, duração em minutos, género ao qual o filme se enquadra, uma breve sinopse, uma classificação de 0 a 10, o ano em que foi lançado, o publico alvo, realizador, atores e alguns comentários.
 
 * Série - A cada serie será atribuído um id para identificar na nossa base de dados, além disso terá também o seu título original, número de temporadas e episódios, género ao qual a serie se enquadra, uma breve sinopse, uma classificação de 0 a 10, o ano em que foi lançada, o publico alvo, realizador, atores e alguns comentários.
@@ -16,6 +17,7 @@
 * Funções - Cada utilizador terá uma função no website, esta poderá ser um mero espetador ou um administrador.
 
 ## Associações
+
 * Avalia - Um utilizador poderá avaliar mais do que um filme/serie/documentário/entrevista
 
 * Tem - Todos os utilizadores terão informações e funções
