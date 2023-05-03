@@ -22,13 +22,21 @@
 
 * Tem - Todos os utilizadores terão informações e funções
 
-Diagrama EA  
+## Diagrama EA  
 
 ![Modelo EA](images/image1.png)
 
 ## Regras de negócio adicionais (Restrições)
 
 * Não há possibilidade de fazer downloads
+
 * Impossibilidade de acessar a platoforma sem internet
-* 
+
+* Obrigatoriedade de registo
+
+* Obrigatoriedade de disponibilizar idade
+
+* Os comentários e avaliações não podem ser de carácter anónimo
+
+
 
