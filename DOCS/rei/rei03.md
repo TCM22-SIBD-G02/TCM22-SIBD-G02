@@ -26,5 +26,7 @@ Diagrama EA
 
 ## Regras de negócio adicionais (Restrições)
 
-
+* Não há possibilidade de fazer downloads
+* Impossibilidade de acessar a platoforma sem internet
+* 
 
