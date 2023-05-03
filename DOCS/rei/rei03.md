@@ -17,6 +17,7 @@
 ## Diagrama EA  
 Diagrama de Informação (images/image1.png) 
 
+
 ![Modelo EA](images/image1.png)
 
 ## Regras de negócio adicionais (Restrições)
