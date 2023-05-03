@@ -66,4 +66,8 @@ Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pe
 
 ## Modelação do problema
 
+1. Problema com Comentários: Devido ao facto de não termos um valor limitante face aos comentários, podemos vir a ter problemas de excesso de dados irrelevantes. Contudo, ao limitar os comentários por utilizador poderiamos vir a ter outro problema, que seria o facto de existir um limite geral face a filmes, séries ou documentários. 
+
+2. Problema com Pesquisa: Ao termos diversas maneiras de procurar um filme, uma série ou um documentário, a pesquisa poderá vir a ser pouco rigorosa ou até mesmo inconclusiva. Isto é, caso um utilizador pesquise pelo seu ator favorito e queira apenas os filmes em que o ator é a personagem principal, não vai ter uma pesquisa conclusiva. 
+
 
