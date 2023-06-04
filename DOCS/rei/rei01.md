@@ -3,8 +3,8 @@
 
 ## Descrição do trabalho
 
-O nosso trabalho consiste na criação de um sistema de informação para uma plataforma de streaming que mais tarde pretende a criação de um sistema de base de dados
-Para assistiram a qualquer conteúdo na plataforma não é necessário qualquer tipo de pagamento, o utilizador apenas tem de iniciar sessão ou criar um utilizador. Para a sua criação é preciso escolher um nome de usuário, uma password e associar um email à sua respetiva conta. Ao criar uma conta além de poder usufruir de todo o conteúdo da plataforma também consegue dar a sua avaliação e deixar o seu comentário para cada conteúdo em todo o site.
+O nosso trabalho consiste na criação de um sistema de informação para uma plataforma de streaming que mais tarde pretende a criação de uma base de dados.
+Para assistiram a qualquer conteúdo na plataforma não é necessário qualquer tipo de pagamento, o utilizador apenas tem de iniciar sessão ou criar uma conta. Para a sua criação é preciso escolher um nome de utilizador, uma password e associar um email à sua respetiva conta. Ao criar uma conta além de poder usufruir de todo o conteúdo da plataforma também consegue dar a sua avaliação e deixar o seu comentário para cada conteúdo em todo o site.
 Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pelos utilizadores) e o seu publico alvo, de forma a fazer uma recomendação individual para cada utilizador de acordo com avaliações ou comentários passados deixados na plataforma ou se está dentro do publico alvo recomendado
 
 ## Os conteúdos presentes no site estão divididos em três tipos: 
