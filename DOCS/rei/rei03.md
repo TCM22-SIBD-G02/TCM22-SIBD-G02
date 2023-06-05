@@ -20,7 +20,7 @@
 
 ## Diagrama EA  
 
-(images/Ea.jpeg)
+<img src= images/Ea.jpeg>
 
 ## Regras de negócio adicionais (Restrições)
 
