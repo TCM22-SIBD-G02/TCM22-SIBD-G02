@@ -1,6 +1,6 @@
 # TCM22-SIBD-G02
 # Trabalho Prático SIBD
-Repositório para acolhimento do projeto desenvolvido para a cadeira de Sistemas de Informção e Bases de Dados, disciplina do 2ºSemestre do 2º Ano do Curso de Tecnologias e Comunicação Multimédia da Universidade da Maia. 
+Repositório para acolhimento do projeto desenvolvido para a cadeira de Sistemas de Informção e Bases de Dados,  disciplina do 2ºSemestre do 2º Ano do Curso de Tecnologias e Comunicação Multimédia da Universidade da Maia. 
 Desenvolvido pelo Grupo SIBD02 : 
 * Pedro Alves - a041598
 * Rafael Correia - a040170
