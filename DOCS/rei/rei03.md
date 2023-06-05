@@ -20,7 +20,7 @@
 
 ## Diagrama EA  
 
-![Modelo EA] (images/Ea.jpeg)
+(images/Ea.jpeg)
 
 ## Regras de negócio adicionais (Restrições)
 
