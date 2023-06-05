@@ -4,27 +4,23 @@
 
 ## Entidades
 
-* Filme - A cada filme será atribuído um id para identificar na nossa base de dados, além disso terá também o seu título original, duração em minutos, género ao qual o filme se enquadra, uma breve sinopse, uma classificação de 0 a 10, o ano em que foi lançado, o publico alvo, realizador, atores e alguns comentários.
+* Filme - A cada filme será atribuído um id para identificar na nossa base de dados, além disso terá também o seu título original, duração em minutos, género ao qual o filme se enquadra, uma breve sinopse, uma classificação de "like ou dislike", o ano em que foi lançado, o publico alvo, realizador e atores.
 
-* Série - A cada serie será atribuído um id para identificar na nossa base de dados, além disso terá também o seu título original, número de temporadas e episódios, género ao qual a serie se enquadra, uma breve sinopse, uma classificação de 0 a 10, o ano em que foi lançada, o publico alvo, realizador, atores e alguns comentários.
+* Série - A cada serie será atribuído um id para identificar na nossa base de dados, além disso terá também o seu título original, género ao qual a serie se enquadra, uma breve sinopse, uma classificação de "like ou dislike", o ano em que foi lançada, o publico alvo e realizador.
 
-* Documentário/Entrevista - A cada Comentário/Entrevista será atribuído(a) um id para identificar na nossa base de dados, além disso terá também o seu título original, duração em minutos, género ao qual o Comentário/Entrevista se enquadra, uma breve sinopse, uma classificação de 0 a 10, o ano em que foi lançado(a), o publico alvo, realizador, participantes e alguns comentários.
-
-* Utilizador - Serão todos as pessoas que se registarem no nosso site e que assistam aos nossos conteúdo. Logo após o registo, será atribuido um ID para cada utilizador, assim o identificado. 
-
-* Informações - Todos os utilizadores terão de preencher um formulário com as seguintes informações, um username, uma password e um email. Além disso cada utilizador terá um id para identificar na base de dados.
+* Utilizador - Serão todas as pessoas que se registarem no nosso site e que assistam aos nossos conteúdos. Logo após o registo que é feitp atraves de um email, password e um username, será atribuido um ID para cada utilizador de maneira a o identificar de forma única.
 
 * Funções - Cada utilizador terá uma função no website, esta poderá ser um mero espetador ou um administrador.
 
 ## Associações
 
-* Avalia - Um utilizador poderá avaliar mais do que um filme/serie/documentário/entrevista
+* Comenta- Um utilizador poderá avaliar mais do que um filme/serie com um like ou dislike.
 
-* Tem - Todos os utilizadores terão informações e funções
+* Tem - Todas as series têm episódios.
 
 ## Diagrama EA  
 
-![Modelo EA](images/image1.png)
+![Modelo EA] (images/Ea.jpeg)
 
 ## Regras de negócio adicionais (Restrições)
 
