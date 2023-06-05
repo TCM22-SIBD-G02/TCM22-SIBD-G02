@@ -19,8 +19,8 @@
 * Tem - Todas as series têm episódios.
 
 ## Diagrama EA  
-
-<img src= images/Ea.jpeg>
+ 
+![diagrama EA](../../images/Ea.jpeg)
 
 ## Regras de negócio adicionais (Restrições)
 
