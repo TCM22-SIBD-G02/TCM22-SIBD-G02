@@ -52,7 +52,7 @@ A nossa plataforma esta dividida em series e filmes.  Dentro das series encontra
 8.	Realizador;
 9.	Ano.
 
-## Entidade Temporadas
+## Entidade Temporadas:
 
 1. Episódios;
 2. Atores;
@@ -60,14 +60,14 @@ A nossa plataforma esta dividida em series e filmes.  Dentro das series encontra
 4. Título;
 5. Duração.
    
-## Entidade Utilizador
+## Entidade Utilizador:
 
 1. ID (identificador único);
 2. Email;
 3. Password;
 4. Login_nome.
 
-## Entidade Funções
+## Entidade Funções:
 
  1. ID (identificador único);
  2. Nome da função.
