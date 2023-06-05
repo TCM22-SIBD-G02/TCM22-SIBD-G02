@@ -29,36 +29,50 @@ A nossa plataforma esta dividida em series e filmes.  Dentro das series encontra
 
 
 ## Entidade Filme:
-1.	ID (identificador único)
-2.	Título
-3.	Ano
-4.	Género
-5.	Sinopse
-6.	Duração
-7.	Classificação
-8.	Publico. Alvo
-9.	Realizador
-10.	Atores
+1.	ID (identificador único);
+2.	Título;
+3.	Ano;
+4.	Género;
+5.	Sinopse;
+6.	Duração;
+7.	Classificação;
+8.	Publico. Alvo;
+9.	Realizador;
+10.	Atores.
 
 ## Entidade Série:
 
-1.	ID (identificador único)
-2.	Título
-3.	Género
-4.	Sinopse
-5.	Episódios
-6.	Classificação
-7.	Público-Alvo
-8.	Realizador
-9.	Ano
+1.	ID (identificador único);
+2.	Título;
+3.	Género;
+4.	Sinopse;
+5.	Episódios;
+6.	Classificação;
+7.	Público-Alvo;
+8.	Realizador;
+9.	Ano.
 
 ## Entidade Temporadas
 
-1. Episódios
-2. Atores
-3. Id_Episódio
-4. Título
-5. Duração
+1. Episódios;
+2. Atores;
+3. Id_Episódio;
+4. Título;
+5. Duração.
+   
+## Entidade Utilizador
+
+1. ID (identificador único);
+2. Email;
+3. Password;
+4. Login_nome.
+
+## Entidade Funções
+
+ 1. ID (identificador único);
+ 2. Nome da função.
+   
+
 
 ## Modelação do problema
 
