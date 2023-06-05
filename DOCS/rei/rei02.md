@@ -14,5 +14,5 @@ Por fim, para que o Utilizador se possa registar na nossa plataforma é necessá
  * email 
 
  ---
-[< Previous](rei01.md) | [^ Main](https://github.com/TCM22-SIBD-G03/TCM22-SIBD-G03) | [Next >](rei03.md)
+[< Previous](rei01.md) | [^ Main](https://github.com/TCM22-SIBD-G02/TCM22-SIBD-G02) | [Next >](rei03.md)
 :--- | :---: | ---: 

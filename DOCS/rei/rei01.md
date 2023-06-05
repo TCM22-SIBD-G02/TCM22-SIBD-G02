@@ -79,5 +79,5 @@ A nossa plataforma esta dividida em series e filmes.  Dentro das series encontra
 1. Problema com Pesquisa: Ao termos diversas maneiras de procurar um filme ou uma série, a pesquisa poderá vir a ser pouco rigorosa ou até mesmo inconclusiva. Isto é, caso um utilizador pesquise pelo seu ator favorito e queira apenas os filmes em que o ator é a personagem principal, não vai ter uma pesquisa conclusiva. 
 
 ---
-[< Previous](rei00.md) | [^ Main](https://github.com/TCM22-SIBD-G03/TCM22-SIBD-G03) | [Next >](rei02.md)
+[< Previous](rei00.md) | [^ Main](https://github.com/TCM22-SIBD-G02/TCM22-SIBD-G02) | [Next >](rei02.md)
 :--- | :---: | ---: 
