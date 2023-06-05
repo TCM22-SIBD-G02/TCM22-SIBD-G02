@@ -4,11 +4,13 @@
 ## Descrição do trabalho
 
 O nosso trabalho consiste na criação de um sistema de informação para uma plataforma de streaming que mais tarde pretende a criação de uma base de dados.
-Para assistiram a qualquer conteúdo na plataforma não é necessário qualquer tipo de pagamento, o utilizador apenas tem de iniciar sessão ou criar uma conta. Para a sua criação é preciso escolher um nome de utilizador, uma password e associar um email à sua respetiva conta. Ao criar uma conta além de poder usufruir de todo o conteúdo da plataforma também consegue dar a sua avaliação e deixar o seu comentário relativamnente ao conteúdo visualizado.
-Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pelos utilizadores) e o seu publico alvo, de forma a fazer uma recomendação individual para cada utilizador de acordo com avaliações ou comentários passados deixados na plataforma ou se está dentro do publico alvo recomendado
+Para assistiram a qualquer conteúdo na plataforma não é necessário qualquer tipo de pagamento, o utilizador apenas tem de iniciar sessão ou criar uma conta. Para a sua criação é preciso escolher um nome de utilizador, uma password e associar um email. 
+Ao criar uma conta além de poder usufruir de todo o conteúdo da plataforma também consegue dar a sua avaliação (like ou dislike) relativamnente ao conteúdo visualizado.
+A nossa plataforma esta dividida em series e filmes.  Dentro das series encontramos o seu id, realizador, sinopse, género, público alvo, título, classificação e o ano da sua produção, para além disto as series também contam com as informações relativas as temporadas como os atores de cada episódio, título, duração, id do episódio. Relativamente aos filmes encontramos o seu id, título, duração, ano, género, atores, realizador, público alvo, sinopse, realizador e classificação.
 
-## Os conteúdos presentes no site estão divididos em três tipos: 
-* Documentário/Entrevista
+
+
+## Os conteúdos presentes no site estão divididos em dois tipos: 
 * Filme 
 * Séries
 
@@ -33,7 +35,7 @@ Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pe
 4.	Género
 5.	Sinopse
 6.	Duração
-7.	Recomendação
+7.	Classificação
 8.	Publico. Alvo
 9.	Realizador
 10.	Atores
@@ -44,31 +46,23 @@ Todos os conteúdos estão organizados de acordo com a sua avaliação (feita pe
 2.	Título
 3.	Género
 4.	Sinopse
-5.	Temporadas
-6.	Episódios
-7.	Recomendação
-8.	Público-Alvo
-9.	Realizador
-10.	Atores
-
-## Entidade Documentário:
-
-1.	ID (identificador único)
-2.	Título
-3.	Género
-4.	Sinopse
-5.	Duração
-6.	Recomendação
+5.	Episódios
+6.	Classificação
 7.	Público-Alvo
 8.	Realizador
-9.	Atores
+9.	Ano
 
+## Entidade Temporadas
+
+1. Episódios
+2. Atores
+3. Id_Episódio
+4. Título
+5. Duração
 
 ## Modelação do problema
 
-1. Problema com Comentários: Devido ao facto de não termos um valor limitante face aos comentários, podemos vir a ter problemas de excesso de dados irrelevantes. Contudo, ao limitar os comentários por utilizador poderiamos vir a ter outro problema, que seria o facto de existir um limite geral face a filmes, séries ou documentários. 
-
-2. Problema com Pesquisa: Ao termos diversas maneiras de procurar um filme, uma série ou um documentário, a pesquisa poderá vir a ser pouco rigorosa ou até mesmo inconclusiva. Isto é, caso um utilizador pesquise pelo seu ator favorito e queira apenas os filmes em que o ator é a personagem principal, não vai ter uma pesquisa conclusiva. 
+1. Problema com Pesquisa: Ao termos diversas maneiras de procurar um filme ou uma série, a pesquisa poderá vir a ser pouco rigorosa ou até mesmo inconclusiva. Isto é, caso um utilizador pesquise pelo seu ator favorito e queira apenas os filmes em que o ator é a personagem principal, não vai ter uma pesquisa conclusiva. 
 
 ---
 [< Previous](rei00.md) | [^ Main](https://github.com/TCM22-SIBD-G03/TCM22-SIBD-G03) | [Next >](rei02.md)
