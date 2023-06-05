@@ -1,5 +1,5 @@
 ## DML
-
+```sql
 USE `test`;
 
 DROP TABLE IF EXISTS `Utilizador`;
@@ -153,35 +153,43 @@ CREATE TABLE IF NOT EXISTS `Temporadas` (
 PRIMARY KEY (`idTemporada`),
 
 );
-
+```
 **DML**
 
 1. Indica-me os títulos de todos os filmes feitos a partir do ano 2000.
 
+```sql
 SELECT titulo
 
 FROM Filmes
 
 WHERE ano=\>2000;
+```
 
-1. Indica-me todos os filmes com uma duração inferior a uma hora e meia.
+2. Indica-me todos os filmes com uma duração inferior a uma hora e meia.
 
+```sql
 SELECT titulo
 
 FROM Filmes
 
 WHERE duração\<90;
+```
 
-1. Indica-me todos os filmes do Realizador "x"
+3. Indica-me todos os filmes do Realizador "x"
 
+```sql
 SELECT titulo
 
 FROM Filmes, Realizador
 
 WHERE nomeRealizador='x';
+```
 
-1. Indica-me todos os nomes dos utilizadores
+4. Indica-me todos os nomes dos utilizadores
 
+```sql
 SELECT nomeUtilizador
 
 FROM Utilizador;
+```
