@@ -6,7 +6,7 @@
 
 #### DESCRIÇÃO 
 
-A tabela "filme" temos "idFilme" "titulo" "duraçãop" "ano" "publicoAlvo" "sinopse" "idGenero" "idRealizador" nesta tabela temos as ligações necessarias para termos uma pequena descrição dos filmes, estas parametros serao baseados em sites como por exemplo o IMBV onde temos todas as informações necessarias. e temos as ligações entre o genero atraves do "idGenero" e também ligação com o realizador atraves de "idRealizador"
+A tabela "filme" temos "idFilme", "titulo", "duração", "ano", "publicoAlvo", "sinopse", "idGenero", "idRealizador", nesta tabela temos as ligações necessarias para termos uma pequena descrição dos filmes, estas parametros serão baseados em sites como por exemplo o IMDB onde temos todas as informações necessarias. e temos as ligações entre o genero atraves do "idGenero" e também ligação com o realizador atraves de "idRealizador".
 
 #### COLUNAS 
 
